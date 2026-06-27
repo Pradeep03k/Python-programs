@@ -5,9 +5,9 @@ Performanance_rating=input("enter your Perform rating : ")
 
 if Experience>=5 :
     Bonus=(Salary * 20)/100
-elif Performanance_rating == A:
+elif Performanance_rating == 'A':
     Bonus=(Salary * 10)/100
-elif Performanance_rating == B:
+elif Performanance_rating == 'B':
     Bonus=(Salary * 5)/100
 else:
     print("No extra bonus")

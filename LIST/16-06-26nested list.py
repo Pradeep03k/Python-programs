@@ -25,7 +25,7 @@ for i in x:
 
 
 
-# orint zeroth index element 
+# zeroth index element 
 student = [[101,"Ram",98],[102,"sita",88],[103,"ramu",78],[104,"gita",99]]
 print("studen Id:")
 for i in student:

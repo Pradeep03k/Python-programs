@@ -1,8 +1,7 @@
 student={}
 
 
-while(True):
-            
+while(True): 
             print("1.Add\n2.view\n3.total")
             choice=int(input("enter the choice:"))
             match choice:
@@ -33,7 +32,7 @@ while(True):
                                     total+=value
                                     percentage=total/3
                               print(total,percentage)
-                    case 4:
+                    
                         
                           
 
